@@ -5,7 +5,7 @@ Welcome to the `pull-request-practice` repository! This repository is designed f
 ## How to Create a Pull Request
 
 ### Step 1: Fork the Repository
-1. Navigate to the [pull-request-practice repository](https://github.com/your-username/pull-request-practice).
+1. Navigate to the [pull-request-practice repository](https://github.com/buwebdev/pull-request-practice).
 2. Click the "Fork" button at the top-right corner of the repository page.
 
 ### Step 2: Clone the Forked Repository
